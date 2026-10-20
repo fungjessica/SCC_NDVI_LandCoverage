@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  20 OCT 2026 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  20 OCT 2026 12:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,43 +338,43 @@ Package hyperref Info: Link coloring ON on input line 14.
 \@outlinefile=\write3
 \openout3 = `"envs proj.out"'.
 
-<scc2015_ndvimap.png, id=20, 844.8363pt x 597.432pt>
-File: scc2015_ndvimap.png Graphic file (type png)
-<use scc2015_ndvimap.png>
-Package pdftex.def Info: scc2015_ndvimap.png  used on input line 47.
+<SCC_maps/scc2015_ndvimap.png, id=20, 844.8363pt x 597.432pt>
+File: SCC_maps/scc2015_ndvimap.png Graphic file (type png)
+<use SCC_maps/scc2015_ndvimap.png>
+Package pdftex.def Info: SCC_maps/scc2015_ndvimap.png  used on input line 47.
 (pdftex.def)             Requested size: 354.86412pt x 250.94707pt.
-<scc2025_ndvimap.png, id=22, 844.8363pt x 597.432pt>
-File: scc2025_ndvimap.png Graphic file (type png)
-<use scc2025_ndvimap.png>
-Package pdftex.def Info: scc2025_ndvimap.png  used on input line 53.
+<SCC_maps/scc2025_ndvimap.png, id=22, 844.8363pt x 597.432pt>
+File: SCC_maps/scc2025_ndvimap.png Graphic file (type png)
+<use SCC_maps/scc2025_ndvimap.png>
+Package pdftex.def Info: SCC_maps/scc2025_ndvimap.png  used on input line 53.
 (pdftex.def)             Requested size: 354.86412pt x 250.94707pt.
  [1
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2 <./scc2015_ndvimap.png> <./scc2025_ndvimap.png>]
-<scc2015_surftemp.png, id=43, 844.8363pt x 597.432pt>
-File: scc2015_surftemp.png Graphic file (type png)
-<use scc2015_surftemp.png>
-Package pdftex.def Info: scc2015_surftemp.png  used on input line 78.
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2 <./SCC_maps/scc2015_ndvimap.png> <./SCC_maps/scc2025_ndvimap.png>]
+<SCC_maps/scc2015_surftemp.png, id=43, 844.8363pt x 597.432pt>
+File: SCC_maps/scc2015_surftemp.png Graphic file (type png)
+<use SCC_maps/scc2015_surftemp.png>
+Package pdftex.def Info: SCC_maps/scc2015_surftemp.png  used on input line 78.
 (pdftex.def)             Requested size: 354.86412pt x 250.94707pt.
-<2025surftemp_betterlegend.png, id=44, 844.8363pt x 597.432pt>
-File: 2025surftemp_betterlegend.png Graphic file (type png)
-<use 2025surftemp_betterlegend.png>
-Package pdftex.def Info: 2025surftemp_betterlegend.png  used on input line 84.
+<SCC_maps/2025surftemp_betterlegend.png, id=44, 844.8363pt x 597.432pt>
+File: SCC_maps/2025surftemp_betterlegend.png Graphic file (type png)
+<use SCC_maps/2025surftemp_betterlegend.png>
+Package pdftex.def Info: SCC_maps/2025surftemp_betterlegend.png  used on input line 84.
 (pdftex.def)             Requested size: 354.86412pt x 250.94707pt.
- [3 <./scc2015_surftemp.png> <./2025surftemp_betterlegend.png>]
-<sanjose2015yearlyclimate.png, id=53, 988.69376pt x 654.445pt>
-File: sanjose2015yearlyclimate.png Graphic file (type png)
-<use sanjose2015yearlyclimate.png>
-Package pdftex.def Info: sanjose2015yearlyclimate.png  used on input line 96.
+ [3 <./SCC_maps/scc2015_surftemp.png> <./SCC_maps/2025surftemp_betterlegend.png>]
+<SCC_temperature/sanjose2015yearlyclimate.png, id=53, 988.69376pt x 654.445pt>
+File: SCC_temperature/sanjose2015yearlyclimate.png Graphic file (type png)
+<use SCC_temperature/sanjose2015yearlyclimate.png>
+Package pdftex.def Info: SCC_temperature/sanjose2015yearlyclimate.png  used on input line 96.
 (pdftex.def)             Requested size: 354.86412pt x 234.891pt.
-<sanjose2025yearlyclimate.png, id=54, 986.68625pt x 640.3925pt>
-File: sanjose2025yearlyclimate.png Graphic file (type png)
-<use sanjose2025yearlyclimate.png>
-Package pdftex.def Info: sanjose2025yearlyclimate.png  used on input line 103.
+<SCC_temperature/sanjose2025yearlyclimate.png, id=54, 986.68625pt x 640.3925pt>
+File: SCC_temperature/sanjose2025yearlyclimate.png Graphic file (type png)
+<use SCC_temperature/sanjose2025yearlyclimate.png>
+Package pdftex.def Info: SCC_temperature/sanjose2025yearlyclimate.png  used on input line 103.
 (pdftex.def)             Requested size: 354.86412pt x 230.31638pt.
 
 No file "envs proj".bbl.
-[4 <./sanjose2015yearlyclimate.png> <./sanjose2025yearlyclimate.png>] (./envs proj.aux)
+[4 <./SCC_temperature/sanjose2015yearlyclimate.png> <./SCC_temperature/sanjose2025yearlyclimate.png>] (./envs proj.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -384,7 +384,7 @@ Package rerunfilecheck Info: File `"envs proj".out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10785 strings out of 467525
- 169485 string characters out of 5418982
+ 169961 string characters out of 5418982
  610225 words of memory out of 5000000
  39567 multiletter control sequences out of 15000+600000
  633284 words of font info for 59 fonts, out of 8000000 for 9000

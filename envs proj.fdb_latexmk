@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex envs proj"] 0 "envs proj.aux" "envs proj.bbl" "envs proj" 1792524476.66489 0
+["bibtex envs proj"] 0 "envs proj.aux" "envs proj.bbl" "envs proj" 1792524936.37732 0
   "/usr/local/texlive/2026/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
   "envs proj.aux" 0 -1 0 "pdflatex"
   "sample.bib" 0 -1 0 ""
@@ -7,8 +7,8 @@
   "envs proj.bbl"
   "envs proj.blg"
   (rewritten before read)
-["pdflatex"] 1792524471.44117 "/Users/jessicafung/Documents/envi qgis/envs proj.tex" "envs proj.pdf" "envs proj" 1792524476.66508 0
-  "/Users/jessicafung/Documents/envi qgis/envs proj.tex" 1792524471.13541 4913 b47a562ebc00e0dc0189e3a02cb28abc ""
+["pdflatex"] 1792524930.58194 "/Users/jessicafung/Documents/envi qgis/envs proj.tex" "envs proj.pdf" "envs proj" 1792524936.37824 0
+  "/Users/jessicafung/Documents/envi qgis/envs proj.tex" 1792524932.03096 4981 d7eac9cb41e144b9b441cc744e26e9e5 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -90,16 +90,16 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1788291692 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1774209607 3636776 dc5fa9b6b1453b9d196cd42edf876004 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "2025surftemp_betterlegend.png" 1787250743.6658 5582053 1945dae5b0ede541961324239d17af7f ""
-  "envs proj.aux" 1792524476.32549 2587 f5fe83b4ccbbe7cb65155335e9fff3b3 "pdflatex"
+  "SCC_maps/2025surftemp_betterlegend.png" 1787250743.6658 5582053 1945dae5b0ede541961324239d17af7f ""
+  "SCC_maps/scc2015_ndvimap.png" 1787254168.88366 6140293 cf9227d5c33b1f69dc3b901ff8d4ebdf ""
+  "SCC_maps/scc2015_surftemp.png" 1787250697.10571 5659799 4ac6b00d3a8c09c6fed9d657cbee3b1b ""
+  "SCC_maps/scc2025_ndvimap.png" 1787254103.14041 6024599 68f890b6c893004bb4ea1197c8ce3e42 ""
+  "SCC_temperature/sanjose2015yearlyclimate.png" 1788292719.66163 436785 968fc330f5ccfd4144a66c378908fb93 ""
+  "SCC_temperature/sanjose2025yearlyclimate.png" 1788292722.77978 437252 5a9192b920e20d74cff0712c91b5579c ""
+  "envs proj.aux" 1792524935.6834 2587 f5fe83b4ccbbe7cb65155335e9fff3b3 "pdflatex"
   "envs proj.bbl" 0 -1 0 "bibtex envs proj"
-  "envs proj.out" 1792524476.32669 739 dff9c4c213632e0b2d40bff44f8176e5 "pdflatex"
-  "envs proj.tex" 1792524471.13541 4913 b47a562ebc00e0dc0189e3a02cb28abc ""
-  "sanjose2015yearlyclimate.png" 1788292719.66163 436785 968fc330f5ccfd4144a66c378908fb93 ""
-  "sanjose2025yearlyclimate.png" 1788292722.77978 437252 5a9192b920e20d74cff0712c91b5579c ""
-  "scc2015_ndvimap.png" 1787254168.88366 6140293 cf9227d5c33b1f69dc3b901ff8d4ebdf ""
-  "scc2015_surftemp.png" 1787250697.10571 5659799 4ac6b00d3a8c09c6fed9d657cbee3b1b ""
-  "scc2025_ndvimap.png" 1787254103.14041 6024599 68f890b6c893004bb4ea1197c8ce3e42 ""
+  "envs proj.out" 1792524935.68449 739 dff9c4c213632e0b2d40bff44f8176e5 "pdflatex"
+  "envs proj.tex" 1792524932.03096 4981 d7eac9cb41e144b9b441cc744e26e9e5 ""
   (generated)
   "envs proj.aux"
   "envs proj.log"
